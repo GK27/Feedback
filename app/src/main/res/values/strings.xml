@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Feedback</string>
+    <string name="question1">Did the app help solve your problem/achieve your goal?</string>
+    <string name="question2">What Didn\'t Work as Expected? </string>
+    <string name="question3">What is your use case? </string>
+    <string name="question4">Which feature of the product you liked the most?</string>
+    <string name="question5">What is the overall rating of the usefulness of app for the given context?</string>
+    <string name="question6">How you are rate the ease of use rating?</string>
+    <string name="feedback_from">Feedback From</string>
+
+</resources>
